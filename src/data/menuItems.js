@@ -1,0 +1,86 @@
+export const menuItems = [
+  // Breakfast
+  {
+    id: 5,
+    categoryId: 1, 
+    name: 'Avocado Toast',
+    description: 'Fresh avocado with poached eggs on sourdough',
+    price: 32.5,
+    image: 'https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 6,
+    categoryId: 1,
+    name: 'French Toast',
+    description: 'Brioche bread with maple syrup and berries',
+    price: 28.9,
+    image: 'https://images.pexels.com/photos/7937479/pexels-photo-7937479.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 7,
+    categoryId: 1, 
+    name: 'Avocado Toast',
+    description: 'Fresh avocado with poached eggs on sourdough',
+    price: 32.5,
+    image: 'https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 8,
+    categoryId: 1,
+    name: 'French Toast',
+    description: 'Brioche bread with maple syrup and berries',
+    price: 28.9,
+    image: 'https://images.pexels.com/photos/7937479/pexels-photo-7937479.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 9,
+    categoryId: 1,
+    name: 'Eggs Benedict',
+    description: 'Poached eggs with hollandaise on English muffin',
+    price: 41.2,
+    image: 'https://images.pexels.com/photos/588776/pexels-photo-588776.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  
+  {
+    id: 10,
+    categoryId: 2, 
+    name: 'Avocado Toast',
+    description: 'Fresh avocado with poached eggs on sourdough',
+    price: 32.5,
+    image: 'https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 11,
+    categoryId: 2,
+    name: 'French Toast',
+    description: 'Brioche bread with maple syrup and berries',
+    price: 28.9,
+    image: 'https://images.pexels.com/photos/7937479/pexels-photo-7937479.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  // Dinner
+  {
+    id: 13,
+    categoryId: 3,
+    name: 'Roast Chicken',
+    description: 'Herb roasted chicken with vegetables',
+    price: 68.9,
+    image: 'https://images.pexels.com/photos/6210747/pexels-photo-6210747.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 14,
+    categoryId: 3,
+    name: 'Salmon Fillet',
+    description: 'Grilled salmon with lemon butter sauce',
+    price: 75.0,
+    image: 'https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
+  {
+    id: 15,
+    categoryId: 3,
+    name: 'Beef Wellington',
+    description: 'Tenderloin wrapped in puff pastry',
+    price: 95.0,
+    image: 'https://images.pexels.com/photos/7937479/pexels-photo-7937479.jpeg?auto=compress&cs=tinysrgb&w=600',
+
+  },
+];
