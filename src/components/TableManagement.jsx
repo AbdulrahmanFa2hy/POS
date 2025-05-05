@@ -65,7 +65,6 @@ const TableManagement = () => {
           </div>
         ))}
       </div>
-      
     </div>
   );
 };
